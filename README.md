@@ -26,7 +26,8 @@ Minimum Target System:
 
 
 My System that I delevop software on:
-    Dell Wyse 5070:
+       
+        Dell Wyse 5070:
     OS:      Debian GNU/Linux 13.3
     CPU:     Intel Pentium Silver J5005
     GPU:     Mesa Intel UHD Graphics 605
